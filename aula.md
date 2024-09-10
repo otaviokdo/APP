@@ -7,9 +7,9 @@ Como um lego, você irá utilizar peças para criar algoritmos, ou seja, para re
 
 ## Peças de uma linguagem
 
-- [x]Comentários
-- Declaração de variáveis (const, let)
-- Operadores (atribuição, concatenação, matemáticos, lógicos)
+- [x] Comentários
+- [x] Declaração de variáveis (const, let)
+- [x] Operadores (atribuição, concatenação, matemáticos, lógicos)
 - Tipos de dados (string, number, boolean)
 - Estrutura de dados (functions, object, array)
 - Controle de fluxo (if/else)
@@ -17,21 +17,40 @@ Como um lego, você irá utilizar peças para criar algoritmos, ou seja, para re
 
 ## Fases de resolução de um problema
 
-Coletar dados
-Processar os dados (manipular, alterar...)
-Apresentar os dados
+- [x] Coletar dados
+- [x] Processar os dados (manipular, alterar...)
+- [x] Apresentar os dados
 
 ## Escopos e variáveis:
 
-Variáveis globais e locais
-Constantes
+- [x] Variáveis globais e locais
+- [x] Constantes
 
 ## Tipos de dados
 
-String
-Number
-Function
+- [x] String
+- [x] Number
+- [x] Boolean
 
 ## Operadores
 
-Operador de atribuição de valores
+- [x] Operador de atribuição de valores
+- [x] Operador de concatenação
+
+## Estruturas de dados:
+
+### Arrays:
+
+- [x] Uma lista que contém qualquer tipo de dado
+
+### Objetos:
+
+- [x] Atributos e métodos
+- [x] Criação e manipulação de objetos
+- [x] Acesso a propriedades de objetos
+
+#### Functions::
+
+- [x] criar, passar argumento
+- [x] executar
+- [x] arrow function / named function
