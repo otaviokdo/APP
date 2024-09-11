@@ -1,0 +1,18 @@
+[
+  {
+    "value": "Tomar 3L de água por dia",
+    "checked": true
+  },
+  {
+    "value": "Andar 30 minutos todos os dias",
+    "checked": false
+  },
+  {
+    "value": "Estudar no mínimo 1 hora por dia",
+    "checked": true
+  },
+  {
+    "value": "Conseguir um estágio em TI",
+    "checked": false
+  }
+]
